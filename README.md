@@ -1,6 +1,6 @@
-# NAME: S.NAVINKUMAR
-# REG.NO: 24901075
-# EXPERIMENT-6: SERIAL IN SERIAL OUT SHIFTREGISTER
+## NAME: S.NAVINKUMAR
+## REG.NO: 24901075
+# EXPERIMENT-6: IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFTREGISTER
 
 # AIM:
 
@@ -80,4 +80,4 @@ endmodule
 
 # RESULT:
 
-Thus SISO Shift Register is implemented using verilog and validated using their waveform.
+Thus SISO Shift Register is implemented using verilog and validated using their waveform and verified successfully
